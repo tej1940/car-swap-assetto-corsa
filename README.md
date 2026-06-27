@@ -3,11 +3,9 @@ An Assetto Corsa car swapper that lets you switch cars without losing your locat
 
 The app saves your position in memory while the new car is loading, then restores it once the loading is complete.
 
-Requirements:
-
-  Content Manager must be installed.
- 
-  Custom Shaders Patch (CSP) is required.
+	Requirements:
+	Content Manager must be installed.
+ 	Custom Shaders Patch (CSP) is required.
 
 i also made a car swapper mod here is the link : https://github.com/tej1940/position-saver/tree/main
 

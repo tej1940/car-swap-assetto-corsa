@@ -9,7 +9,7 @@ Requirements:
  
   Custom Shaders Patch (CSP) is required.
 
-
+this build is in developement and is not really optimized
 
 By default, the app can be opened with F9, but you can change the hotkey in the app settings. You can also open it from the Apps section on the right side of the screen while in Assetto Corsa.
 

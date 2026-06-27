@@ -6,6 +6,7 @@ The app saves your position in memory while the new car is loading, then restore
 Requirements:
 
   Content Manager must be installed.
+ 
   Custom Shaders Patch (CSP) is required.
 
 By default, the app can be opened with F9, but you can change the hotkey in the app settings. You can also open it from the Apps section on the right side of the screen while in Assetto Corsa.
